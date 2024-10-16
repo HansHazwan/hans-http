@@ -1,0 +1,8 @@
+[package]
+name = "hans-http"
+version = "0.1.0"
+authors = ["Hans <muhammadhazwanzufar79@gmail.com>"]
+edition = "2021"
+description = "Writing a http request and http response safely."
+license = "MIT OR Apache-2.0"
+
